@@ -1,16 +1,9 @@
-# iamrich
+# mi_card
 
-A new Flutter application.
+A mini project that shows user's personal card. For this project, I used Educaree informartion. Educaree is a starting company which I work on, and it made me excited to its card, even though it is not an official app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this app, everything you have to do is to clone it, open it on an IDE (I recommend Android Studio) and get the dependencies (aka assets). Then, compile it either into your phone or into the virtual phone provided by Android Studio. That's it! Educaree's card is ready to be displayed.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Educaree card](https://github.com/ottusp/Images/blob/master/Educaree_card.jpg?raw=true)
